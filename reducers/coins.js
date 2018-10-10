@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { BASE_URL } from '../utils/urls';
+import { BASE_URL } from '../utils/urls'
 
 const COINS = 'COINS'
 const ADD_COIN = 'ADD_COIN'
